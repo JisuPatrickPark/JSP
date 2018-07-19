@@ -3,7 +3,7 @@
 # Research Topics:
 1. Image Augmentation tool.
    
-   1.1 Customized image augmentation library based on "Augmentor": https://github.com/JisuPatrickPark/Augmentor_customizing
+1.1 Customized image augmentation library based on "Augmentor": https://github.com/JisuPatrickPark/Augmentor_customizing
   
 # Projects:
 1. Defect image augmentation. 
