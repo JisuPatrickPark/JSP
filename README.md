@@ -15,7 +15,7 @@
 
 # Coursework:
 
-#Useful link:
+# Useful link:
 1. Install manual for DarkNet YOLO V3 for Windows/Linux: https://github.com/AlexeyAB/darknet
 
 2. Image augmentation library in Python, "Augmentor": https://github.com/mdbloice/Augmentor
